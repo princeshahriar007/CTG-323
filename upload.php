@@ -5,6 +5,8 @@
 </head>
 <body>
 	<h2>This is upload</h2>
+	<h2>This is upload 2</h2>
+
 
 <?php 
 
